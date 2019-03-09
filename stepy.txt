@@ -1,7 +1,13 @@
 Wp³yn¹³em na suchego przestwór oceanu,
+<<<<<<< dd561ff28b501dc3cf8440b0d6f4189be97c113c
 Wóz nurza siê w zieleñ i jak kaczka brodzi,
 Œród fali ³¹k szumi¹cych, œród kwiatów powodzi,
 Omijam koralowe ostrowy burzanu.
+=======
+2Wóz nurza siê w zielonoœæ i jak ³ódka brodzi,
+3Œród fali ³¹k szumi¹cych, œród kwiatów powodzi,
+4Omijam koralowe ostrowy burzanu.
+>>>>>>> Stepy update v2
 Ju¿ mrok zapada, nigdzie drogi ni kurhanu;
 Patrzê w niebo, gwiazd szukam, przewodniczek ³odzi;
 Tam z dala b³yszczy ob³ok - tam jutrzenka wschodzi;
